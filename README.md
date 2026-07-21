@@ -314,7 +314,7 @@ All generated code was integrated, tested, modified, and validated as part of th
 Heer Jambudiya
 
 GitHub:
-https://github.com/<heerjambudiya>
+https://github.com/heerjambudiya
 
 ---
 
